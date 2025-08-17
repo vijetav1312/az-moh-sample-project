@@ -1,0 +1,10 @@
+trigger:
+ branches: 'feature/catalog'
+
+stages:
+  - build:
+  - deploy:
+  -execute:
+
+
+     
