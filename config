@@ -1,0 +1,4 @@
+Host github.ibm.com
+    HostName github.ibm.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
